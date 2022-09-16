@@ -1,6 +1,6 @@
 # MealsToGo
 
-(https://zerotomastery.io/about/instructor/andrei-neagoie/) and [Mo Binni](https://zerotomastery.io/about/instructor/mo-binni/). 
+
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/42794888/123163522-a9599c00-d426-11eb-8e0b-f7ed77950147.png" width="25%">
